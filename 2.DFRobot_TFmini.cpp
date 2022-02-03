@@ -39,7 +39,7 @@ bool      DFRobot_TFmini::measure(void)
     }
     return false;
 }
-
+//comment_changed
 uint16_t  DFRobot_TFmini::getDistance(void)
 {
     return distance;

@@ -50,6 +50,7 @@ uint16_t  DFRobot_TFmini::getStrength(void)
     return strength;
 
 }
+//testing_myself_2
 //testing_myself
 //comment_changed    
 //new_feature

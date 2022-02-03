@@ -59,4 +59,8 @@ uint16_t  DFRobot_TFmini::getStrength(void)
 
 //testing_myself_3
 //testing_myself_4
+<<<<<<< HEAD
 //testing_myself_6
+=======
+//testing_myself_5
+>>>>>>> e0fd687e04cfd763706ded936e99468b22a1b1e1

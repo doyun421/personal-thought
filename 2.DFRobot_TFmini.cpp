@@ -55,8 +55,7 @@ uint16_t  DFRobot_TFmini::getStrength(void)
 //comment_changed    
 //new_feature
 //pushing code Feb branch
-<<<<<<< HEAD
+
 
 //testing_myself_3
-=======
->>>>>>> 994380a697be0f584bdf9fdc5ff7bc4cc4c7286a
+//testing_myself_4

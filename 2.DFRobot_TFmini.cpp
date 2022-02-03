@@ -48,4 +48,6 @@ uint16_t  DFRobot_TFmini::getDistance(void)
 uint16_t  DFRobot_TFmini::getStrength(void)
 {
     return strength;
+
 }
+//comment_changed    

@@ -50,6 +50,7 @@ uint16_t  DFRobot_TFmini::getStrength(void)
     return strength;
 
 }
+//testing_myself
 //comment_changed    
 //new_feature
 //pushing code Feb branch
